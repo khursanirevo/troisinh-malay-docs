@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Logs
+*.log
+conversion.log
+
+# Temporary/Debug scripts
+additional_fix.py
+comprehensive_fix.py
+direct_fix.py
+final_fix.py
+fix_corruption.py
+fix_anchors.py
+fix_anchors_complete.py
+scan_and_fix_anchors.py
+translate_to_malay.py
+
+# Documentation/Plans (temporary)
+TRANSLATION_PLAN.md
+TRANSLATION_PROGRESS.md
+VIETNAMESE_ANCHOR_FIX_PLAN.md
+
+# Original source (assuming we only track the converted Malay version)
+troisinh.com/
+troisinh_markdown/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor
+.vscode/
+.idea/
+*.sublime-*
+
+# Memory/Checkpoint files
+*.checkpoint
+*.jsonl
+memory/
+
+# Claude Code
+.claude/
