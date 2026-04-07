@@ -1,0 +1,26 @@
+baseURL: https://troisinh-malay.pages.dev/
+languageCode: ms-my
+title: TroiSinh - Belajar AI dalam Bahasa Melayu
+theme: hugo-theme-learn
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 3
+
+params:
+  themeVariant: "blue"
+  showVisitedLinks: true
+  disableSearch: false
+  disableAssetsBusting: false
+  disableLanguageSwitchingButton: false
+  title: "TroiSinh"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
