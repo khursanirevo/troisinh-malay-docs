@@ -2,7 +2,7 @@
 
 ## ✅ Repository Ready!
 
-**GitHub Repository:** https://github.com/khursanirevo/troisinh-malay-docs
+**GitHub Repository:** https://github.com/khursanirevo/bangkit
 
 ---
 
@@ -19,14 +19,14 @@
 1. Click **"Connect to Git"**
 2. Select **"GitHub"** as your Git provider
 3. Authorize Cloudflare to access your GitHub (if not already done)
-4. Find and select: **`troisinh-malay-docs`**
+4. Find and select: **`bangkit`**
 
 ### **Step 3: Configure Build Settings**
 
 Enter these exact settings:
 
 ```
-Project name: troisinh-malay-docs
+Project name: bangkit
 Production branch: main
 Build command: hugo --minify
 Build output directory: public
@@ -41,7 +41,7 @@ No environment variables needed for Hugo.
 
 1. Click **"Save and Deploy"**
 2. Wait for the build to complete (usually takes 1-2 minutes)
-3. Your site will be live at: `https://troisinh-malay-docs.pages.dev`
+3. Your site will be live at: `https://bangkit.pages.dev`
 
 ---
 
@@ -49,7 +49,7 @@ No environment variables needed for Hugo.
 
 ### **Your Live Site URLs:**
 
-- **Main URL:** `https://troisinh-malay-docs.pages.dev`
+- **Main URL:** `https://bangkit.pages.dev`
 - **Preview deployments:** Available for every branch/commit
 
 ### **Custom Domain (Optional):**
@@ -139,8 +139,8 @@ hugo server
 
 - **Cloudflare Pages Docs:** https://developers.cloudflare.com/pages/
 - **Hugo Documentation:** https://gohugo.io/documentation/
-- **Your GitHub Repo:** https://github.com/khursanirevo/troisinh-malay-docs
-- **Live Site:** https://troisinh-malay-docs.pages.dev
+- **Your GitHub Repo:** https://github.com/khursanirevo/bangkit
+- **Live Site:** https://bangkit.pages.dev
 
 ---
 
