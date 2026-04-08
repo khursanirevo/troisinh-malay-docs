@@ -1,9 +1,9 @@
 ---
-title: "TroiSinh - Belajar AI dalam Bahasa Melayu"
+title: "Bangkit - Belajar AI dalam Bahasa Melayu"
 type: docs
 ---
 
-# Selamat Datang ke TroiSinh 🎓
+# Selamat Datang ke Bangkit 🎓
 
 Panduan lengkap untuk belajar Artificial Intelligence (AI) dalam Bahasa Melayu.
 

@@ -1,10 +1,10 @@
 ---
-title: "Perihal TroiSinh"
+title: "Perihal Bangkit"
 ---
 
-# Perihal TroiSinh
+# Perihal Bangkit
 
-TroiSinh adalah platform pembelajaran AI dalam Bahasa Melayu yang lengkap dan praktikal.
+Bangkit adalah platform pembelajaran AI dalam Bahasa Melayu yang lengkap dan praktikal.
 
 ## Misi Kami
 
@@ -33,4 +33,4 @@ Untuk sebarang pertanyaan atau cadangan, hubungi kami melalui:
 - Telegram: [your telegram]
 
 ---
-© 2024 TroiSinh. Hak Cipta Terpelihara.
+© 2024 Bangkit. Hak Cipta Terpelihara.

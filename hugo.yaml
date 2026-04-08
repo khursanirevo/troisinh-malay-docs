@@ -1,6 +1,6 @@
-baseURL: https://troisinh-malay.pages.dev/
+baseURL: https://bangkit.pages.dev/
 languageCode: ms-my
-title: TroiSinh - Belajar AI dalam Bahasa Melayu
+title: Bangkit - Belajar AI dalam Bahasa Melayu
 theme: hugo-theme-learn
 
 markup:
@@ -17,7 +17,7 @@ params:
   disableSearch: false
   disableAssetsBusting: false
   disableLanguageSwitchingButton: false
-  title: "TroiSinh"
+  title: "Bangkit"
 
 outputs:
   home:

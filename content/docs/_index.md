@@ -3,9 +3,9 @@ title: "Dokumentasi"
 weight: 1
 ---
 
-# Dokumentasi Lengkap TroiSinh
+# Dokumentasi Lengkap Bangkit
 
-Selamat datang ke dokumentasi lengkap TroiSinh.
+Selamat datang ke dokumentasi lengkap Bangkit.
 
 ## 📚 Kandungan
 

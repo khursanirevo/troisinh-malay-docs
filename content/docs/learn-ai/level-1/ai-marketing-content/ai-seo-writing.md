@@ -81,7 +81,7 @@ AI diberi tugas tulis artikel banding 2000 perkataan:
 
 
 
-### [TroiSinh tulis artikel pillar "belajar AI dari sifar"](ai-seo-writing.html#troisinh-write-lessahajan-pillar-pelajar-ai-from-con-number-0)
+### [Bangkit tulis artikel pillar "belajar AI dari sifar"](ai-seo-writing.html#troisinh-write-lessahajan-pillar-pelajar-ai-from-con-number-0)
 
 Dan bukan upah luar (outsahajaurce), team guna AI untuk:
 

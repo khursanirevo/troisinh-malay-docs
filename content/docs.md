@@ -4,7 +4,7 @@ Platform pengetahuan AI Bahasa Melayu — dari asas hingga pakar, percuma untuk 
 
 Copy MarkdownOpen
 
-Selamat datang ke **TroiSinh** — pustaka pengetahuan AI Bahasa Melayu, dibina sebagai sistem kurikulum terbuka, percuma.
+Selamat datang ke **Bangkit** — pustaka pengetahuan AI Bahasa Melayu, dibina sebagai sistem kurikulum terbuka, percuma.
 
 Sama ada anda pelajar, guru, atau pekerja yang ingin memahami AI — anda boleh mula dari sini.
 

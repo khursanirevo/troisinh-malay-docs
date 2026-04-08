@@ -1,8 +1,8 @@
 # Glosari Istilah AI untuk Penutur Bahasa Melayu
 ## AI Terminology Glossary for Malay Speakers
 
-**Glosari ini memastikan konsistensi terminologi merentasi semua terjemahan TroiSinh.**
-**This glossary ensures terminology consistency across all TroiSinh translations.**
+**Glosari ini memastikan konsistensi terminologi merentasi semua terjemahan Bangkit.**
+**This glossary ensures terminology consistency across all Bangkit translations.**
 
 ---
 
@@ -222,7 +222,7 @@ Dalam terjemahan ini, singkatan teknikal biasa dikekalkan dalam bentuk asal:
 
 **Versi:** 1.0
 **Tarikh Kemas Kini:** 7 April 2026
-**Penyelenggara:** TroiSinh Translation Team
+**Penyelenggara:** Bangkit Translation Team
 
 ---
 
